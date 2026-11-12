@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 
-MODEL_PATH = "/content/drive/MyDrive/Hindi_KG_Project_V2/02_NER_Model/final_model"
+MODEL_PATH = "Roushan2003/hindi-xlmr-ner"
 
 TYPE_MAPPING = {
     "PER": {"Q5"},
