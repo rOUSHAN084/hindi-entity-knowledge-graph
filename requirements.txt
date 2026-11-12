@@ -1,5 +1,6 @@
 streamlit
-torch
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
 transformers==4.46.3
 requests
 networkx
