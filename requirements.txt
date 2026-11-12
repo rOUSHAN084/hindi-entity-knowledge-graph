@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers==4.46.3
+requests
+networkx
+matplotlib
+safetensors
+sentencepiece
