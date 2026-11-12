@@ -7,3 +7,4 @@ networkx
 matplotlib
 safetensors
 sentencepiece
+numpy==1.26.4
